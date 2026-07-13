@@ -46,30 +46,15 @@ Built a second HTML page on Gluttony: The Hunger That Never Says Enough, practic
 
 
 
-Day 4 – HTML Practice & SEO Basics
-What I Learned Today
-
-Today, I continued improving my HTML skills by creating more practice projects and learning the basics of SEO (Search Engine Optimization).
-
-Topics I Learned
-Created more HTML practice pages.
-Learned how to use the <meta> tag.
-Understood the purpose of:
-name attribute
-content attribute
-description meta tag
-Learned why the meta description is important for SEO and how search engines use it to understand a webpage.
-Practiced writing meaningful page titles using the <title> tag.
-Improved my understanding of semantic HTML structure.
-Used headings (<h1>, <h2>), paragraphs, lists (<ul> and <ol>), links (<a>), images (<img>), and figures (<figure> with <figcaption>).
-Practiced using the target="_blank" attribute to open links in a new tab.
-Added descriptive alt text to images for better accessibility and SEO.
-Projects I Built
-📚 XYZ Bookstore Page
-🌴 Goa Travel Agency Page
-What I Learned About SEO
-Every webpage should have a meaningful <title>.
-The <meta name="description" content="..."> tag provides a short summary of the webpage.
-name specifies what type of metadata is being defined (such as description).
-content stores the actual value of that metadata.
-Good titles, descriptions, and image alt text help search engines understand the page better and improve accessibility
+Day 4 – HTML & SEO Basics
+What I Learned
+Continued practicing HTML by building two projects:
+XYZ Bookstore Page
+Goa Travel Agency Page
+Learned the basics of SEO (Search Engine Optimization).
+Understood how the <meta> tag works, especially:
+name
+content
+description
+Learned why a good page title, meta description, and image alt text help search engines understand a webpage.
+Practiced using headings, lists, links, images, figures, and semantic HTML elements.
