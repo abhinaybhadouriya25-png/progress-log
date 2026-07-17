@@ -6,7 +6,11 @@ Each folder is a small project or exercise with a short note on what I practiced
 ## Entries
 -[2026-07-09 _ Idea Planner](./2026-07-09-idea-planner)- first HTML/CSS/JS page, practiced browser dev tools(Console, Network).
 
+<<<<<<< HEAD
 Day 2 - Python Environment Setup
+=======
+Day 2 - Python Environment Setup
+>>>>>>> 035e801be23979aa2f3fb5772a3764724f36de58
 
 Today, I successfully set up my Python development environment on Linux Mint. I installed and verified Python, pip, VS Code, and Git. I also created my first Python project folder and learned how to create, activate, and deactivate a virtual environment (venv).
 
@@ -46,7 +50,11 @@ Built a second HTML page on Gluttony: The Hunger That Never Says Enough, practic
 
 
 
+<<<<<<< HEAD
 Day 4 - HTML & SEO Basics
+=======
+Day 4 - HTML & SEO Basics
+>>>>>>> 035e801be23979aa2f3fb5772a3764724f36de58
 What I Learned
 Continued practicing HTML by building two projects:
 XYZ Bookstore Page
@@ -58,6 +66,7 @@ content
 description
 Learned why a good page title, meta description, and image alt text help search engines understand a webpage.
 Practiced using headings, lists, links, images, figures, and semantic HTML elements.
+<<<<<<< HEAD
 
 
 Day 5 -  JavaScript Fundamentals
@@ -85,3 +94,5 @@ Practice
 
 Created small projects to practice string manipulation, a simple teacher chatbot, and increment/decrement operators.
 
+=======
+>>>>>>> 035e801be23979aa2f3fb5772a3764724f36de58
